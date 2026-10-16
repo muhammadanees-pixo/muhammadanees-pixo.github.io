@@ -1,0 +1,7 @@
+# app-ads.txt for PIXO LABS (Wiggly Worm: Snake Puzzle)
+OWNERDOMAIN=muhammadanees-pixo.github.io
+
+# Google AdMob
+google.com, pub-7889655600854751, DIRECT, f08c47fec0942fa0
+
+# Unity Ads and ironSource Ads lines are added below after the game is live.
